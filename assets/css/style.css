@@ -23,6 +23,16 @@ span{
   border-radius: 50%;
   background-color: #FFFFFF;
   padding: 10px 20px;
+  box-shadow: none;
+}
+
+a{
+  text-decoration: none;
+  color: #000000;
+}
+
+span:hover{
+  box-shadow: 3px 3px 6px #000000;
 }
 
 /* corspo del sito */
@@ -36,6 +46,18 @@ section{
   position: relative;
 }
 
+div{
+  padding-top: 15vh ;
+}
+
 #scarpa-one{
   background-color: #FF0000;
+}
+
+#scarpa-two{
+  background-color:#008000 ;
+}
+#scarpa-tree{
+  background-color:#FFFF00;
+  color:#008000 ;
 }
