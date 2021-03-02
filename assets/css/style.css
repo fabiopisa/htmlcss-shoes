@@ -9,8 +9,7 @@ html{
 }
 
 body{
-  font-family: 'Roboto', sans-serif;
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Rubik Mono One', sans-serif;
 }
 
 /* menu fisso */
@@ -51,7 +50,7 @@ section{
   height: 100vh;
   text-transform: uppercase;
   color:#FFFF00 ;
-  font-size: 5vh;
+  font-size: 4vh;
   position: relative;
 }
 
