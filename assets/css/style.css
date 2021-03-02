@@ -1,0 +1,41 @@
+*{
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* menu fisso */
+
+header{
+  position:relative;
+}
+
+nav{
+  position: fixed;
+  right: 20px;
+  top:50px;
+  z-index: 3;
+}
+
+span{
+  margin-right: 40px;
+  font-size: 30px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  padding: 10px 20px;
+}
+
+/* corspo del sito */
+
+section{
+  text-align: center;
+  height: 100vh;
+  text-transform: uppercase;
+  color:#FFFF00 ;
+  font-size: 5vh;
+  position: relative;
+}
+
+#scarpa-one{
+  background-color: #FF0000;
+}
